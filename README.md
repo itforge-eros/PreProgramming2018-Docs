@@ -7,14 +7,14 @@
 <br>
 เรียนปรับพื้นฐาน จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1 
 
-> ดังนั้น พี่ๆอยากให้น้องตั่งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ แล้วชีวิตของน้องจะสดใส เชื่อพี่ 
+> ดังนั้น พี่ๆอยากให้น้องตั่งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ แล้วชีวิตของน้องจะสดใส จากความหวงใยของพี่ๆ 
 
 
 
 ---
 # กำหนดการ Pre-Programming
 
-|วันที่ 23 - 29 เมษายน 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 พฤษภาคม - 20 มิถุนายน 2018 |
+|วันที่ 23 - 29 เมษายน 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฦาคม 2018 |
 |:-------:|:----:|:-------:|
 |รับสมัครนักศึกษา เข้า Course Pre Programming|Pre Programming รอบ Online|Pre Programming รอบ Onsite|
 
@@ -104,7 +104,7 @@
 
 
 ## หาที่อยู่ (หอพัก)
-หอพัก พี่มงก็ไม่ค่อยจะรู้เรื่องเท่าไหร่จ้า เช่นว่าสี่งอำนวยความสะดวก เอาเป็นว่า เสริจ Google Maps แล้วไปลองดูจริงๆก่อนที่น้องจะเลือกดูก็ได้จ้า โดยจะมีโซนหลักๆคือ
+สำหรับน้องที่มาจากต่างจังหวัดหรือมีประสงค์ที่จะพักแถวสถาบันพี่ก็มีโซนแนะนำหลักๆ ดังนี้
 ```
 1. เกกี (อยู่แถวนี้ https://goo.gl/maps/pX5ARMGMNZ62)
 2. หอพักของมหาลัย https://goo.gl/maps/kaqZHBVJKYB2
@@ -131,7 +131,13 @@
 
 ________________
 
+## Have fun with code
 
+<a href="https://www.facebook.com/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%82%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%86%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B9%89%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-181076956001154/"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/28058624_181144782661038_2021038716274990731_n.png?_nc_fx=fbkk1-2&_nc_cat=0&oh=2f377a03c2f43388b912ab7c089088cc&oe=5B660D3E" width="600px"></a>
+
+## Master Ginger รับน้ำขิงร้อนๆซักแก้มั้ยครับ
+
+___
 ## Special Thanks
 |<a href="https://github.com/sagelga"><img src="https://avatars0.githubusercontent.com/u/13056824" width="100px"></a>  |
 |:-:|
@@ -145,9 +151,9 @@ ________________
 |@RawitSHIE|@Wiput1999|@810team|@Kodashi|@Supermalonz|
 
 
-|<a href="https://www.facebook.com/zelotype"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
+<!-- |<a href="https://www.facebook.com/zelotype"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|
-|@Zelotype|@zand.nattanichaa|@printrd|@noonnsp|
+|@Zelotype|@zand.nattanichaa|@printrd|@noonnsp| -->
 
 
 

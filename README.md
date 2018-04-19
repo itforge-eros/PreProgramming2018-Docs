@@ -1,34 +1,32 @@
 ![prepro logo](pic/logo-banner.png)
 # Introduction to Pre Programming 2561
 สวัสดีครับ 
+<br>
+ก็ต้อนรับน้องๆอีกครั้งนึงนะครับ repo นี้จะบอกกำหนดการและข้อมูล Programming Preparatory course ของปี 2018 นะครับ โดยการ Update เรื่องกำหนดการและข้อมูลต่าง จะใช้ Repo นี้เป็นนะครับ 
+<br>
+<br>
+เรียนปรับพื้นฐาน จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1 
+
+> ดังนั้น พี่ๆอยากให้น้องตั่งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ แล้วชีวิตของน้องจะสดใส เชื่อพี่ 
 
 
-
-
-> "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." -- Continuum
 
 ---
 # กำหนดการ Pre-Programming
 
 |วันที่ 23 - 29 เมษายน 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 พฤษภาคม - 20 มิถุนายน 2018 |
-|---------|------|---------|
-|รับสมัครนักศึกษา เข้า cource Pre Programming|Pre Programming รอบ Online|Pre Programming รอบ Onsite|
+|:-------:|:----:|:-------:|
+|รับสมัครนักศึกษา เข้า Course Pre Programming|Pre Programming รอบ Online|Pre Programming รอบ Onsite|
 
-# What is EJudge? by P'Kumamon
-
-![ejudge logo](pic/ejudge.png)
+# What is EJudge?![ejudge logo](pic/ejudge.png)
 
 ระบบ Ejudge เป็นระบบ Grader ชนิดหนึ่ง ที่จะรับโปรแกรมของน้องๆมา แล้วรัน โดยการใส่ค่า Input ที่พวกพี่ๆที่ออกโจทย์เขียนเอาไว้ + รับค่า Output ที่ผ่านโปรแกรมนั้นๆออกมา
 โดยระบบจะเช็คได้ถึง
 
 1. **ความมีระเบียบ** ในการเขียนโปรแกรม (คุณภาพ)
-
 2. **ความคล้ายคลึงใน Algorithm** ในโปรแกรมน้องๆ กับเพี่อนของน้องๆ
-
 3. **ความถูกต้องในผลลัพท์** ที่ออกมาจากโปรแกรมที่น้องๆเขียนมา
-
 4. **เก็บคะแนน** และเก็บไฟล์ที่น้องเคยส่งมาทั้งหมด
-
 
 โดยน้องๆก็จะเจอกับระบบนี้ไปอีกนาน เพราะน้องต้องเรียนกับมัน สอบกับมัน ทำ Quiz กับมัน ดังนั้น ก็ให้เข้าใจและชินไปกับระบบครับ
 
@@ -46,11 +44,12 @@
 และระดับความยาก = 5 และ ทำคุณภาพ code ระดับไม่มีที่ติ
 
 |Testcase Score|Difficulty|Perfect bonus score|Quality|Total|
-|--------------|----------|-------------------|-------|-----|
+|:------------:|:--------:|:-----------------:|:-----:|:---:|
 |(10/10) x 100 |	      x5|100 x 5 x 2        |100%   |100 x 5 x 1 + 500 = 1000|
 
-
-เห็นความแตกต่างนั่นมั้ยเอ่ย? 450 กับ 1000 คะแนน? Welcome to the PSIT.
+>
+> เห็นความแตกต่างนั่นมั้ยเอ่ย? 450 กับ 1000 คะแนน? Welcome to the PSIT.
+>
 
 # Why Python?
 ![prepro logo](pic/python-logo.png)
@@ -62,21 +61,28 @@
 
 - **Compatibility** ใช้ได้กับทุก platform หลักๆ เช่น Windows (.NET) และ UNIX (MacOS & Linux Distribution & Android)
 
-# เนื้อหาการเรียนรอบ Online อย่างคร่าวๆ
-### 0	Creation of Website + Website Hosting on AWS
-by P’ Dobakung + P’ Kumamon
+> "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." -- Continuum
 
-Syntax for HTML + CSS / Hosting Website on AWS services
+# เนื้อหาการเรียนรอบ Online 
 
-# ![](/Reference%20Photos/Google-Bookmark.png) References
+```
+-- COMMING SOON --
+```
 
-Think Python 2 (หนังสือเดียวที่เอาเข้าห้องสอบได้) <br> http://greenteapress.com/thinkpython2/thinkpython2.pdf
 
-Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด)
-http://www.pythontutor.com
-
-Python Organizations (Document หลักของ Python)
-https://docs.python.org/3/
+> ##  References
+> 
+> 
+> ![thinkpython2](pic/think-python.png)
+> 
+> Think Python 2 (หนังสือเดียวที่เอาเข้าห้องสอบได้) <br>
+> http://greenteapress.com/thinkpython2/thinkpython2.pdf
+> 
+> Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด)
+> http://www.pythontutor.com
+> 
+> Python Organizations (Document หลักของ Python)
+> https://docs.python.org/3/
 
 ---
 # การเตรียมตัวก่อน Onsite**
@@ -84,50 +90,66 @@ https://docs.python.org/3/
 ## เรียน Onsite
 การเรียน Onsite นี้จะแตกต่างกับรอบ Online ในระดับหนึ่ง เพราะจะเป็นการรีวิวข้อสอบ หรือแนวข้อสอบ เพื่อจะให้น้องๆไปสอบได้อย่างสบายใจ ได้คะแนนกันพุ่งพรวดเลยทีเดียว (อิอิ) แต่สำหรรับน้องรอบ Admission นั้น ไม่ต้องกลัวครับ เดี๋ยวพี่ๆจะมาสอนน้องๆ ให้ทันตามเพื่อนๆนะจ๊ะ
 
-โดยหากมีข้อสงสัย หรือ ต้องการความช่วยเหลือ ติดต่อพี่ๆประจำห้องได้เลยนะครับ
+>โดยหากมีข้อสงสัย หรือ ต้องการความช่วยเหลือ ติดต่อพี่ๆ ได้เลยนะครับ
 
 ## การเดินทางระหว่างมหาลัยและบ้าน
 ตอนนี่ที่พี่คิดออก ก็มีดังนี้ครับ
 ### ลาดกระบัง -> Seacon Square (ศรีนครินทร์) สามารถกลับบ้านได้ดังนี้
-1. นั่งรถ 2 แถว (ที่เขียนว่าไป Airport Link) 7 บาท -> นั่ง Airport Link จากสถานนีลาดกระบัง ไป 2 สถานี ไปลงสถานนีหัวหมาก -> นั่งรถเมล์ป้ายที่ผ่าน Seacon Square หรือหากน้องจะไปไกลกว่านี้ (เช่นปากน้ำ) ก็สามารถนั่งรถเมล์หรือรถตู้ไปก็ได้ครับ
-2. นั่งรถ 2 แถวจากฝั่งคณะครุ มาลงหน้าโรงพยาบาลลาดกระบัง -> เดืนไปขื้นรถตู้ไป Seacon Square ในฝั่งตรงข้าม
+```
+นั่งรถ 2 แถว (ที่เขียนว่าไป Airport Link) 7 บาท -> นั่ง Airport Link จากสถานนีลาดกระบัง ไป 2 สถานี ไปลงสถานนีหัวหมาก -> นั่งรถเมล์ป้ายที่ผ่าน Seacon Square หรือหากน้องจะไปไกลกว่านี้ (เช่นปากน้ำ) ก็สามารถนั่งรถเมล์หรือรถตู้ไปก็ได้ครับ
 
+นั่งรถ 2 แถวจากฝั่งคณะครุ มาลงหน้าโรงพยาบาลลาดกระบัง -> เดืนไปขื้นรถตู้ไป Seacon Square ในฝั่งตรงข้าม
+```
 บ้านน้องอยู่ไหน ลองบอกพี่ดูได้นะครับ เดี๋ยวพี่จะลองคิดเส้นทางให้นะจ๊ะ
 
 
 ## หาที่อยู่ (หอพัก)
 หอพัก พี่มงก็ไม่ค่อยจะรู้เรื่องเท่าไหร่จ้า เช่นว่าสี่งอำนวยความสะดวก เอาเป็นว่า เสริจ Google Maps แล้วไปลองดูจริงๆก่อนที่น้องจะเลือกดูก็ได้จ้า โดยจะมีโซนหลักๆคือ
+```
 1. เกกี (อยู่แถวนี้ https://goo.gl/maps/pX5ARMGMNZ62)
 2. หอพักของมหาลัย https://goo.gl/maps/kaqZHBVJKYB2
 3. หน้ามหาลัย (อยู่แถวนี้ https://goo.gl/maps/NdyzVqv88iw)
 4. ถนนฉลองกรุง (อยู่แถวนี้ https://goo.gl/maps/iSWHjzZ3Hyx)
-
+```
 
 ## การรายงานตัว
-การรายตัวของสถาบันนั้นจะแบ่งเป็น 2 ช่วงนั้นก็คือ
+การรายตัวของสถาบันนั้นจะแบ่งเป็น `2 ช่วง` นั้นก็คือ
 
 
 |การรายงานตัวรอบที่ 1|การรายงานตัวรอบที่ 2|
 |-----------------|-----------------|
 |วันที่ 11 - 13 กรกฦาคม 2018|วันที่ 1 - 3 สิงหาคม 2018 |
 
-ดังนั้นน้องที่อยู่ต่างจังหวัด หรือ ที่พักอาศัยอยู่บริเวณหอพักของสถาบัน พี่ๆแนะนำว่าให้ทำการเตรียมเอกสารการรายงานตัวให้เรียบร้อย อย่างน้อยล่วงหน้า 1 อาทิตย์ โดยสำหรับข้อมูล ต้องเอาอะไรไปบ้าง และเวลาไหน ที่ไหน ให้ดูในตารางการรายงานตัวนะครับ http://www.reg.kmitl.ac.th/educalendar/index.php
+ดังนั้นน้องที่อยู่ต่างจังหวัด หรือ ที่พักอาศัยอยู่บริเวณหอพักของสถาบัน พี่ๆแนะนำว่าให้ทำการเตรียมเอกสารการรายงานตัวให้เรียบร้อย `อย่างน้อยล่วงหน้า 1 อาทิตย์` โดยสำหรับข้อมูล ต้องเอาอะไรไปบ้าง และเวลาไหน ที่ไหน ให้ดูในตารางการรายงานตัวนะครับ http://www.reg.kmitl.ac.th/educalendar/index.php
 
-ที่หลักๆ ก็จะมีตามเช็คลิสต์นี้ --> comming soon
-
+ที่หลักๆ ก็จะมีตามเช็คลิสต์นี้
+```
 1. เอกสารการตรวจร่างกาย โดยที่ต้องไปโหลดฟอร์มบนเว็บไซต์ reg.kmitl.ac.th
 2. ใบ ปพ 1 (จริง 1 ชุด สำเนา 2 ชุด)
 3. สำเนาบัตรประชาชน 2 ชุด
+```
+
 ________________
 
 
 ## Special Thanks
 |<a href="https://github.com/sagelga"><img src="https://avatars0.githubusercontent.com/u/13056824" width="100px"></a>  |
-|:-:|  
+|:-:|
 |@sagelga|
 
-Copyright by P' Kumamon IT14. <br>
-For education purpose only.
+
+
+## Our Team
+|<a href="https://www.facebook.com/rawitgun"><img src="https://avatars1.githubusercontent.com/u/31315990" width="100px"></a>  |<a href="https://www.facebook.com/wiput.pootong"><img src="https://avatars3.githubusercontent.com/u/8299278" width="100px"></a>  |<a href="https://www.facebook.com/810Teams"><img src="https://avatars1.githubusercontent.com/u/26340809" width="100px"></a>  |<a href="https://www.facebook.com/pipatboon"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/14900381_1254770891263380_2526708941116232222_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=2c6ed03fa9dcdc56202dc16de3a69f97&oe=5B5091E4" width="100px"></a>  |<a href="https://www.facebook.com/kavepol"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/18156901_1456506974417122_2622418456792260905_n.jpg?_nc_cat=0&oh=9f72576370aadc0af71db1421b540358&oe=5B53B671" width="100px"></a>  |
+|:-:|:-:|:-:|:-:|:-:|
+|@RawitSHIE|@Wiput1999|@810team|@Kodashi|@Supermalonz|
+
+
+|<a href="https://www.facebook.com/zelotype"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
+|:-:|:-:|:-:|:-:|
+|@Zelotype|@zand.nattanichaa|@printrd|@noonnsp|
+
+
 
 
 ![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)

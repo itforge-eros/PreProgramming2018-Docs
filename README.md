@@ -7,7 +7,7 @@
 <br>
 Course นี้จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1 
 
-> ดังนั้น พี่ๆอยากให้น้องตั่งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ แล้วชีวิตของน้องจะสดใส จากความหวงใยของพี่ๆ 
+> ดังนั้น พี่ๆอยากให้น้องตั้งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ ไม่เข้าใจให้ถาม แล้วชีวิตของน้องจะสดใส จากความห่วงใยของพี่ๆ 
 
 
 
@@ -16,7 +16,7 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 
 |วันที่ 23 - 29 เมษายน 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฦาคม 2018 |
 |:-------:|:----:|:-------:|
-|รับสมัครนักศึกษา เข้า Course Pre Programming|Pre Programming รอบ Online|Pre Programming รอบ Onsite|
+|รับสมัครน้องๆ เข้า Course Pre Programming|Pre Programming รอบ Online|Pre Programming รอบ Onsite|
 
 # What is EJudge?![ejudge logo](pic/ejudge.png)
 
@@ -36,7 +36,7 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 
 
 |Testcase Score|Difficulty|Perfect bonus score|Quality|Total|
-|--------------|----------|-------------------|-------|-----|
+|:--------------:|:----------:|:-------------------:|:-------:|:-----:|
 |(9/10) x 100  |x5        |100 x 5 x 0        |100%   |90 x 5 x 1 + 0 = 450|
 
 
@@ -88,7 +88,7 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 # การเตรียมตัวก่อน Onsite**
 
 ## เรียน Onsite
-การเรียน Onsite นี้จะแตกต่างกับรอบ Online ในระดับหนึ่ง เพราะจะเป็นการรีวิวข้อสอบ หรือแนวข้อสอบ เพื่อจะให้น้องๆไปสอบได้อย่างสบายใจ ได้คะแนนกันพุ่งพรวดเลยทีเดียว (อิอิ) แต่สำหรรับน้องรอบ Admission นั้น ไม่ต้องกลัวครับ เดี๋ยวพี่ๆจะมาสอนน้องๆ ให้ทันตามเพื่อนๆนะจ๊ะ
+การเรียน Onsite นี้จะแตกต่างกับรอบ Online ในระดับหนึ่ง เพราะจะเป็นการรีวิวข้อสอบ หรือแนวข้อสอบ เพื่อจะให้น้องๆไปสอบได้อย่างสบายใจ ได้คะแนนกันพุ่งพรวดเลยทีเดียว (อิอิ) แต่สำหรับน้องรอบ Admission นั้น ไม่ต้องกลัวครับ เดี๋ยวพี่ๆจะมาสอนน้องๆ ให้ทันตามเพื่อนๆนะจ๊ะ
 
 >โดยหากมีข้อสงสัย หรือ ต้องการความช่วยเหลือ ติดต่อพี่ๆ ได้เลยนะครับ
 
@@ -151,9 +151,9 @@ ___
 |@RawitSHIE|@Wiput1999|@810team|@Kodashi|@Supermalonz|
 
 
-<!-- |<a href="https://www.facebook.com/zelotype"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
+|<a href="https://www.facebook.com/zelotype"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|
-|@Zelotype|@zand.nattanichaa|@printrd|@noonnsp| -->
+|@Zelotype|@zand.nattanichaa|@printrd|@noonnsp|
 
 
 

@@ -1,8 +1,8 @@
 ![prepro logo](pic/logo-banner.png)
-# Introduction to Pre Programming 2561
+# Introduction to Pre Programming 2018
 สวัสดีครับ 
 <br>
-ก็ต้อนรับน้องๆอีกครั้งนึงนะครับ Repo นี้จะบอกกำหนดการและข้อมูล Programming Preparatory course ของปี 2018 นะครับ โดยการ Update เรื่องกำหนดการและข้อมูลต่าง จะใช้ Repo นี้เป็นตัวหลักนะครับ 
+ก็ต้อนรับน้องๆอีกครั้งนึงนะครับ Repo นี้จะบอกกำหนดการและข้อมูล Programming Preparatory Course ของปี 2018 นะครับ โดยการ Update เรื่องกำหนดการและข้อมูลต่าง จะใช้ Repo นี้เป็นตัวหลักนะครับ 
 <br>
 <br>
 Course นี้จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1 

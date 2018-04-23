@@ -16,12 +16,14 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 
 |วันที่ 23 เมษายน - 4 พฤษภาคม 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
 |:-------:|:----:|:-------:|
-|รับสมัครน้องๆ เข้า Course Pre Programming<br>(0รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
-|Status: OnGoing | Status: Inactive | Status: Inactive|
+|รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
+|Status: `OnGoing` | Status: `Inactive` | Status: `Inactive`|
 
 ### *link การรับสมัคร*
 
-ตามนี้เลยจร้า [Pre-Programming Registeration Document]()
+**ตามนี้เลยจร้า [Pre-Programming Registeration Document](https://goo.gl/forms/jlcSsdvDtfxWanWA3)**
+
+ *ทุกคำตอบของน้องมีผลนะครับ ขอให้น้องๆทำกันด้วยความตั่งใจ อ่านรายละเอียดอย่างถีถ้วน*
 
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is EJudge?![ejudge logo](pic/ejudge.png)
@@ -139,8 +141,9 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 ________________
 
 ## Have fun with code
-
+<p align="center">
 <a href="https://www.facebook.com/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%82%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%86%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B9%89%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-181076956001154/"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/28058624_181144782661038_2021038716274990731_n.png?_nc_fx=fbkk1-2&_nc_cat=0&oh=2f377a03c2f43388b912ab7c089088cc&oe=5B660D3E" width="600px"></a>
+</p>
 
 ## Master Ginger รับน้ำขิงร้อนๆซักแก้วมั้ยครับ
 
@@ -166,3 +169,4 @@ ___
 
 
 ![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)
+

@@ -14,14 +14,15 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 ---
 # กำหนดการ Pre-Programming
 
-|วันที่ 23 - 29 เมษายน 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
+|วันที่ 23 เมษายน - 4 พฤษภาคม 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
 |:-------:|:----:|:-------:|
-|รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
+|รับสมัครน้องๆ เข้า Course Pre Programming<br>(0รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
+|Status: OnGoing | Status: Inactive | Status: Inactive|
 
 ### *link การรับสมัคร*
-```
-Comming Soon 
-```
+
+ตามนี้เลยจร้า [Pre-Programming Registeration Document]()
+
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is EJudge?![ejudge logo](pic/ejudge.png)
 
@@ -115,6 +116,7 @@ Comming Soon
 2. หอพักของมหาลัย [อยู่แถวนี้](https://goo.gl/maps/kaqZHBVJKYB2)
 3. หน้ามหาลัย [อยู่แถวนี้](https://goo.gl/maps/NdyzVqv88iw)
 4. ถนนฉลองกรุง [อยู่แถวนี้](https://goo.gl/maps/iSWHjzZ3Hyx)
+5. V condo [อยู่แถวนี้](https://goo.gl/maps/Yr212K2WBxK2)
 
 
 ## การรายงานตัว

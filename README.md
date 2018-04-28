@@ -23,8 +23,14 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 
 **ตามนี้เลยจร้า [Pre-Programming Registeration Document](https://goo.gl/forms/jlcSsdvDtfxWanWA3)**
 
- *ทุกคำตอบของน้องมีผลนะครับ ขอให้น้องๆทำกันด้วยความตั่งใจ อ่านรายละเอียดอย่างถีถ้วน*
 
+### รายชื่อผู้ผ่านการทดสอบการสมัคร
+
+**ตามนี้เลยจร้า [Pre-Programming Attendance Status](https://docs.google.com/spreadsheets/d/1BEcazbkEzYYvQbfI2gVfNwORDpj98aHv2urtFBytxDA/edit?usp=sharing)**
+
+ ```
+ ไม่มีชื่อ ไม่ต้องตกใจนะครับพี่ๆ จะคอย Update นะ ส่วนคนทีขึ้นว่าม่ผ่านไม่ต้องตกใจนะครับ น้องๆไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบ ตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ๆ เลยนะครับ
+```
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is EJudge?![ejudge logo](pic/ejudge.png)
 

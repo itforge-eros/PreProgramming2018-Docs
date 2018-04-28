@@ -29,7 +29,7 @@
 **ตามนี้เลยจร้า [Pre-Programming Attendance Status](https://docs.google.com/spreadsheets/d/1BEcazbkEzYYvQbfI2gVfNwORDpj98aHv2urtFBytxDA/edit?usp=sharing)**
 
 
- ไม่มีชื่อ ไม่ต้องตกใจนะครับ พี ่ๆ จะคอยอัปเดตนะ ส่วนคนทีขึ้นว่าม่ผ่านไม่ต้องตกใจนะครับ น้อง ๆ ไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบ ตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ ๆ เลยนะครับ
+หากน้องไม่พบชื่อตัวเอง ไม่ต้องตกใจนะครับ พี่ ๆ จะคอยอัปเดตนะ ส่วนคนทีขึ้นว่าม่ผ่านไม่ต้องตกใจนะครับ น้อง ๆ ไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบหรือตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ ๆ ได้เลยนะครับ
 
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is eJudge?![ejudge logo](pic/ejudge.png)
@@ -135,7 +135,7 @@
 |-----------------|-----------------|
 |วันที่ 11 - 13 กรกฎาคม 2018|วันที่ 1 - 3 สิงหาคม 2018 |
 
-ดังนั้นน้องที่อยู่ต่างจังหวัด หรือ ที่พักอาศัยอยู่บริเวณหอพักของสถาบัน พี่ ๆ แนะนำว่าให้ทำการเตรียมเอกสารการรายงานตัวให้เรียบร้อย `อย่างน้อยล่วงหน้า 1 อาทิตย์` โดยสำหรับข้อมูล ต้องเอาอะไรไปบ้าง และเวลาไหน ที่ไหน ให้ดูในตารางการรายงานตัวนะครับ [KMITL Registeration Website](http://www.reg.kmitl.ac.th/educalendar/index.php)
+ดังนั้นน้องที่อยู่ต่างจังหวัด หรือ ที่พักอาศัยอยู่บริเวณหอพักของสถาบัน พี่ ๆ แนะนำว่าให้ทำการเตรียมเอกสารการรายงานตัวให้เรียบร้อย `อย่างน้อยล่วงหน้า 1 สัปดาห์` โดยสำหรับข้อมูล ต้องเอาอะไรไปบ้าง และเวลาไหน ที่ไหน ให้ดูในตารางการรายงานตัวนะครับ [KMITL Registeration Website](http://www.reg.kmitl.ac.th/educalendar/index.php)
 
 ที่หลักๆ ก็จะมีตามเช็คลิสต์นี้
 ```
@@ -164,12 +164,12 @@ ___
 ## Our Team
 |<a href="https://www.facebook.com/rawitgun"><img src="https://avatars1.githubusercontent.com/u/31315990" width="100px"></a>  |<a href="https://www.facebook.com/wiput.pootong"><img src="https://avatars3.githubusercontent.com/u/8299278" width="100px"></a>  |<a href="https://www.facebook.com/810Teams"><img src="https://avatars1.githubusercontent.com/u/26340809" width="100px"></a>  |<a href="https://www.facebook.com/pipatboon"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/14900381_1254770891263380_2526708941116232222_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=2c6ed03fa9dcdc56202dc16de3a69f97&oe=5B5091E4" width="100px"></a>  |<a href="https://www.facebook.com/kavepol"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/18156901_1456506974417122_2622418456792260905_n.jpg?_nc_cat=0&oh=9f72576370aadc0af71db1421b540358&oe=5B53B671" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|:-:|
-|@RawitSHIE|@wiput1999|@810Teams|@Kodashi|@Supermalonz|
+|[@RawitSHIE](https://github.com/rawitshie)|[@wiput1999](https://github.com/wiput1999)|[@810Teams](https://github.com/810Teams)|@Kodashi|@Supermalonz|
 
 
 |<a href="https://www.facebook.com/kawisara.srn"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/c0.3.954.954/15589581_1237352856319176_4109367596096346036_n.jpg?_nc_cat=0&oh=1036e15d2cf8a9ccdf79a6876fd79b5b&oe=5B5B0B7E" width="100px"></a>  |<a href="https://www.facebook.com/zand.nattanichaa"><img src="https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/27867499_345831609234127_2034119418119580573_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=19fe6ac850ded915fdd549cf6d014495&oe=5B55E567" width="100px"></a>  |<a href="https://www.facebook.com/PrintTheerada"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/27655218_1659464617471916_5486524868058967341_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=3509c79c9e20d41318e9e8a5ec2beb56&oe=5B513669" width="100px"></a>  |<a href="https://www.facebook.com/noon.pvrch"><img src="https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/28795046_1981715428509637_4648672215176459003_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=b435bb41faf09919c6b98ec99effe5c9&oe=5B596B97" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|
-|@zelotype|@zandnatta|@printrd|@noonnsp|
+|[@zelotype](https://github.com/zelotype)|@zandnatta|@printrd|@noonnsp|
 
 
 

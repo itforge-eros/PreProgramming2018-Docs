@@ -29,7 +29,7 @@
 **ตามนี้เลยจร้า [Pre-Programming Attendance Status](https://docs.google.com/spreadsheets/d/1BEcazbkEzYYvQbfI2gVfNwORDpj98aHv2urtFBytxDA/edit?usp=sharing)**
 
 
-หากน้องไม่พบชื่อตัวเอง ไม่ต้องตกใจนะครับ พี่ ๆ จะคอยอัปเดตนะ ส่วนคนทีขึ้นว่าม่ผ่านไม่ต้องตกใจนะครับ น้อง ๆ ไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบหรือตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ ๆ ได้เลยนะครับ
+หากน้องไม่พบชื่อตัวเอง ไม่ต้องตกใจนะครับ พี่ ๆ จะคอยอัปเดตนะ ส่วนคนทีขึ้นว่าไม่ผ่านไม่ต้องตกใจนะครับ น้อง ๆ ไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบหรือตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ ๆ ได้เลยนะครับ
 
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is eJudge?![ejudge logo](pic/ejudge.png)
@@ -67,15 +67,15 @@
 
 # Why Python?
 ![prepro logo](pic/python-logo.png)
-น้องอาจจะไม่เข้าใจ ว่าทำไม เราต้องมาเรียน Python ด้วย ทำไมไม่เรียน C/Java ก่อน หรือ ไม่เรียน Ruby หรือ Swift ก่อน เพื่อเป็นการเรียนวิธีคิด พี่อยากจะบอกข้อดีของ Python ให้น้องฟังครับ
+น้องอาจจะไม่เข้าใจ ว่าทำไมเราต้องมาเรียน Python ด้วย ทำไมไม่เรียน C/Java ก่อน หรือ ไม่เรียน Ruby หรือ Swift ก่อน เพื่อเป็นการเรียนวิธีคิด พี่อยากจะบอกข้อดีของ Python ให้น้องฟังครับ
 
 - **Speed** - น้องจะสามารถเขียนภาษานี้ได้เร็ว เพราะเป็นภาษา High Level
 
-- **Integrations** - ระบบต่างๆ นั้นรองรับภาษา Python ทั้งหมด หากไม่รองรับ ก็สามารถใช้ Library เพื่อให้มันรองรับได้
+- **Integrations** - ระบบต่าง ๆ นั้นรองรับภาษา Python ทั้งหมด หากไม่รองรับ ก็สามารถใช้ Library เพื่อให้มันรองรับได้
 
 - **Compatibility** - ใช้ได้กับทุกแพลตฟอร์มหลัก ๆ เช่น Windows (.NET) และ UNIX (MacOS & Linux Distribution & Android)
 
-> "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." -- Continuum
+> "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." - Continuum
 
 # เนื้อหาการเรียนรอบ Online
 

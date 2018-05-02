@@ -14,10 +14,10 @@ Course นี้จะเป็นเรื่องการใช้ Algorithm
 ---
 # กำหนดการ Pre-Programming
 
-|วันที่ 23 เมษายน - 4 พฤษภาคม 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
+|วันที่ 23 เมษายน - 14 พฤษภาคม 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
 |:-------:|:----:|:-------:|
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
-|Status: `Mid Cycle` | Status: `Inactive` | Status: `Inactive`|
+|Status: `Extended + 10 Days` | Status: `Inactive` | Status: `Inactive`|
 
 ### *link การรับสมัคร*
 

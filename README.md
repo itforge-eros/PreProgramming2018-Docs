@@ -88,8 +88,8 @@
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
-		<td><img width="100px" src="https://bit.ly/2IPSs1q"></td>
-		<td><img width="100px" src="https://bit.ly/2wUTdBu"></td>
+		<td><img width="100px" src="pic/td/gun.jpg"></td>
+		<td><img width="100px" src="pic/td/coke.jpg"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่กรรณ</td>
@@ -97,8 +97,8 @@
 	</tr>
 	<tr align="center">
 		<td rowspan="2">Python Basics</td>
-		<td><img width="100px" src="https://bit.ly/2IxR14m"></td>
-		<td><img width="100px" src=""></td>
+		<td><img width="100px" src="pic/td/cartoon.jpg"></td>
+		<td><img width="100px" src="pic/td/fluke_piyapol.jpg"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่การ์ตูน</td>
@@ -108,8 +108,8 @@
 		<td rowspan="2">2</td>
 		<td rowspan="2">4th June - 10th June</td>
 		<td rowspan="2">Functions</td>
-		<td><img width="100px" src="https://bit.ly/2rVfFEL"></td>
-		<td><img width="100px" src="https://bit.ly/2IsbefL"></td>
+		<td><img width="100px" src="pic/td/khing.jpg"></td>
+		<td><img width="100px" src="pic/td/diff.jpg"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่ขิง</td>
@@ -119,8 +119,8 @@
 		<td rowspan="2">3</td>
 		<td rowspan="2">11th June - 17th June</td>
 		<td rowspan="2">Conditionals</td>
-		<td><img width="100px" src="https://bit.ly/2wUmlJb"></td>
-		<td><img width="100px" src="https://bit.ly/2rSa6XR"></td>
+		<td><img width="100px" src="pic/td/pok.jpg"></td>
+		<td><img width="100px" src="pic/td/fluke_phongsathron.jpg"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่ป๊อก</td>
@@ -130,8 +130,8 @@
 		<td rowspan="2">4</td>
 		<td rowspan="2">18th June - 24th June</td>
 		<td rowspan="2">Loops</td>
-		<td><img width="100px" src="https://bit.ly/2Gu8Jna"></td>
-		<td><img width="100px" src="https://bit.ly/2k9ghDm"></td>
+		<td><img width="100px" src="pic/td/saint.jpg"></td>
+		<td><img width="100px" src="pic/td/nut.jpg"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่เซ้นท์</td>

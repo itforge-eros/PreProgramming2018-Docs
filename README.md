@@ -84,7 +84,7 @@
 		<th colspan="2">Instructors</th>
 	</tr>
 	<tr align="center">
-		<td rowspan="4">1</td>
+		<td rowspan="4" bgcolor="#ffffff">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
 		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"></td>

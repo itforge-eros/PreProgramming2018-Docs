@@ -78,7 +78,15 @@
 
 |Week Number|Date|Topic|Instructor|
 |:-----:|:-----:|:-----:|:-----:|
-|0|28th May - 3rd June|Introduction to Pre-Programming|พี่กรรณและพี่โค้ก|
+|1|28th May - 3rd June|Introduction to Pre-Programming||
+|^|^|Python Basics||
+|^|^|||
+|2|4th June - 10th June|||
+|^|^|||
+|3|11th June - 17th June|||
+|^|^|||
+|4|18th June - 24th June|||
+|^|^|||
 
 `
 Status: Currently Updating

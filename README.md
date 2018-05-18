@@ -77,7 +77,7 @@
 # เนื้อหาการเรียนรอบ Online
 
 <table>
-	<tr align="center">
+	<tr align="center" style="font-weight: bold">
 		<td>Week Number</td>
 		<td>Date</td>
 		<td>Topic</td>
@@ -87,34 +87,34 @@
 		<td rowspan="2">1</td>
 		<td rowspan="2">28th May - 3rd June</td>
 		<td>Basic Python</td>
-		<td><img src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"><br>พี่กรรณ</td>
-		<td><img src=""><br>พี่โค้ก</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"><br>พี่กรรณ</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/20315_942303559165930_6912505496713634242_n.jpg?_nc_cat=0&_nc_eui2=AeF4lc4HrL8xi4_2P5-Ooxn38A224PdAcM56tsfUgJE-0DIGdTpco_rLgZpTfUk5YXBBb93-K5PLU-URAZ-M8Gob9adb6E_CTt9uCerTUpDWXA&oh=a80c8fce73315403dfac0c5fe61cc72d&oe=5B804EF2"><br>พี่โค้ก</td>
 	</tr>
 	<tr align="center">
 		<td>Python Basics</td>
-		<td><img src=""><br>พี่การ์ตูน</td>
-		<td><img src=""><br>พี่ฟลุ๊ค (ปิยะพล)</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t31.0-8/19942601_1456619177725875_2892043890110481431_o.jpg?_nc_cat=0&_nc_eui2=AeEd44my2QLpQyi30AMddL7GLITYW47B-cpkWoYFAp2TlHCYczvXgMEY_9qLQLJwf3RHuIY1hljxwLATGg9n3Olbns_-lTwcTh3phckQPezUFQ&oh=a110d755d081951ea057364f9b3dc0d3&oe=5B8A3152"><br>พี่การ์ตูน</td>
+		<td><img width="100px" src=""><br>พี่ฟลุ๊ค (ปิยะพล)</td>
 	</tr>
 	<tr align="center">
 		<td>2</td>
 		<td>4th June - 10th June</td>
 		<td>Functions</td>
-		<td><img src=""><br>พี่ขิง</td>
-		<td><img src=""><br>พี่ดิฟ</td>
+		<td><img width="100px" src=""><br>พี่ขิง</td>
+		<td><img width="100px" src=""><br>พี่ดิฟ</td>
 	</tr>
 	<tr align="center">
 		<td>3</td>
 		<td>11th June - 17th June</td>
 		<td>Conditions (if, elif, else)</td>
-		<td><img src=""><br>พี่ป๊อก</td>
-		<td><img src=""><br>พี่ฟลุ๊ค (พงศธร)</td>
+		<td><img width="100px" src=""><br>พี่ป๊อก</td>
+		<td><img width="100px" src=""><br>พี่ฟลุ๊ค (พงศธร)</td>
 	</tr>
 	<tr align="center">
 		<td>4</td>
 		<td>18th June - 24th June</td>
 		<td>Loops (while, for)</td>
-		<td>พี่เซ้นท์</td>
-		<td>พี่ณัฐ</td>
+		<td><img width="100px" src=""><br>พี่เซ้นท์</td>
+		<td><img width="100px" src=""><br>พี่ณัฐ</td>
 	</tr>
 </table>
 

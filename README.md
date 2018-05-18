@@ -88,7 +88,7 @@
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
-		<td><a href="https://www.facebook.com/profile.php?id=100006793360750" target="_blank"><img width="100px" src="pic/td/gun.jpg"></a></td>
+		<td><a href="https://www.facebook.com/jusmistic" target="_blank"><img width="100px" src="pic/td/gun.jpg"></a></td>
 		<td><a href="https://www.facebook.com/Naruebet.Coke" target="_blank"><img width="100px" src="pic/td/coke.jpg"></a></td>
 	</tr>
 	<tr align="center">

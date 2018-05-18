@@ -81,14 +81,15 @@
 		<th>Week</th>
 		<th>Date</th>
 		<th>Topic</th>
+		<th>Content</th>
 		<th colspan="2">Instructors</th>
 	</tr>
 	<tr></tr>
 	<tr align="center">
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
+		<td rowspan="2">Introduction to Pre-Programming</td>
 		<td rowspan="2">
-			Introduction to Pre-Programming <br>
 			<ul>
 				<li>What is Python?</li>
 				<li>Installation</li>

@@ -84,37 +84,57 @@
 		<td colspan="2">Instructors</td>
 	</tr>
 	<tr align="center">
-		<td rowspan="2">1</td>
-		<td rowspan="2">28th May - 3rd June</td>
-		<td>Basic Python</td>
-		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"><br>พี่กรรณ</td>
-		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/20315_942303559165930_6912505496713634242_n.jpg?_nc_cat=0&_nc_eui2=AeF4lc4HrL8xi4_2P5-Ooxn38A224PdAcM56tsfUgJE-0DIGdTpco_rLgZpTfUk5YXBBb93-K5PLU-URAZ-M8Gob9adb6E_CTt9uCerTUpDWXA&oh=a80c8fce73315403dfac0c5fe61cc72d&oe=5B804EF2"><br>พี่โค้ก</td>
+		<td rowspan="4">1</td>
+		<td rowspan="4">28th May - 3rd June</td>
+		<td rowspan="2">Introduction to Pre-Programming</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"></td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/20315_942303559165930_6912505496713634242_n.jpg?_nc_cat=0&_nc_eui2=AeF4lc4HrL8xi4_2P5-Ooxn38A224PdAcM56tsfUgJE-0DIGdTpco_rLgZpTfUk5YXBBb93-K5PLU-URAZ-M8Gob9adb6E_CTt9uCerTUpDWXA&oh=a80c8fce73315403dfac0c5fe61cc72d&oe=5B804EF2"></td>
+	<tr align="center">
+		<td>พี่กรรณ</td>
+		<td>พี่โค้ก</td>
+	</tr>
 	</tr>
 	<tr align="center">
-		<td>Python Basics</td>
-		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t31.0-8/19942601_1456619177725875_2892043890110481431_o.jpg?_nc_cat=0&_nc_eui2=AeEd44my2QLpQyi30AMddL7GLITYW47B-cpkWoYFAp2TlHCYczvXgMEY_9qLQLJwf3RHuIY1hljxwLATGg9n3Olbns_-lTwcTh3phckQPezUFQ&oh=a110d755d081951ea057364f9b3dc0d3&oe=5B8A3152"><br>พี่การ์ตูน</td>
-		<td><img width="100px" src=""><br>พี่ฟลุ๊ค (ปิยะพล)</td>
+		<td rowspan="2">Python Basics</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t31.0-8/19942601_1456619177725875_2892043890110481431_o.jpg?_nc_cat=0&_nc_eui2=AeEd44my2QLpQyi30AMddL7GLITYW47B-cpkWoYFAp2TlHCYczvXgMEY_9qLQLJwf3RHuIY1hljxwLATGg9n3Olbns_-lTwcTh3phckQPezUFQ&oh=a110d755d081951ea057364f9b3dc0d3&oe=5B8A3152"></td>
+		<td><img width="100px" src=""></td>
 	</tr>
 	<tr align="center">
-		<td>2</td>
-		<td>4th June - 10th June</td>
-		<td>Functions</td>
-		<td><img width="100px" src=""><br>พี่ขิง</td>
-		<td><img width="100px" src=""><br>พี่ดิฟ</td>
+		<td>พี่การ์ตูน</td>
+		<td>พี่ฟลุ๊ค (ปิยะพล)</td>
 	</tr>
 	<tr align="center">
-		<td>3</td>
-		<td>11th June - 17th June</td>
-		<td>Conditions (if, elif, else)</td>
-		<td><img width="100px" src=""><br>พี่ป๊อก</td>
-		<td><img width="100px" src=""><br>พี่ฟลุ๊ค (พงศธร)</td>
+		<td rowspan="2">2</td>
+		<td rowspan="2">4th June - 10th June</td>
+		<td rowspan="2">Functions</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/23130588_1369333236512922_6578891938151368004_n.jpg?_nc_cat=0&_nc_eui2=AeHQEggrhPxl-zthaHmHeVEUip5_ldoS5JUx2JnMLgNGB30cKLcqW4kXQZzAqLc1g753c3AXob-wdtGc0F63oKphhLEVCoYr4G9ub2MzxII9cQ&oh=fc73d62eb8255d54b51a271a84cb9d19&oe=5B7D688B"></td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/31143920_1792092670855268_3714017121756250112_o.jpg?_nc_cat=0&_nc_eui2=AeGSYJxONMp2E1d7hX5InOKa304zgOsfC-ozAMGl8elIZxraUp3SIX7xVcfq4NZJkaAfJdCvBuo9cKBNcUyW4MLDuCQEy7q3dVxCygTP8C2diA&oh=79a526598ed48329141eefc5dad3e831&oe=5B7907FE"></td>
 	</tr>
 	<tr align="center">
-		<td>4</td>
-		<td>18th June - 24th June</td>
-		<td>Loops (while, for)</td>
-		<td><img width="100px" src=""><br>พี่เซ้นท์</td>
-		<td><img width="100px" src=""><br>พี่ณัฐ</td>
+		<td>พี่ขิง</td>
+		<td>พี่ดิฟ</td>
+	</tr>
+	<tr align="center">
+		<td rowspan="2">3</td>
+		<td rowspan="2">11th June - 17th June</td>
+		<td rowspan="2">Conditions (if, elif, else)</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t31.0-8/22829523_1536454106447752_590025224213690986_o.jpg?_nc_cat=0&_nc_eui2=AeGH_SiMYUbraV7SVRB_MjXqcDEUVsYf4tnl0Hluf7HetDsTSMrIMR9bZOnITgaAFOGfLHMOI74Sl_klYlYQd59-2018X49k9l0m66o_Gbn8Yw&oh=1d84f40a5071e4e97f25fe0abada82ca&oe=5B896CBA"></td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22814222_1676346082428754_7516867450616866879_n.jpg?_nc_cat=0&_nc_eui2=AeGDWt5cd1XunDcAdhBaXYU3h3k-GWK4gvTJhh-TMie2tsTj5QIW42Wn-HZKJj1KNE4FNh89BSzCbOAUM_Qfi9hx4fsIYhHBELVop9lebMaueg&oh=ca16b365d9a772b0e714f858752f7ce7&oe=5B8BF37F"></td>
+	</tr>
+	<tr align="center">
+		<td>พี่ป๊อก</td>
+		<td>พี่ฟลุ๊ค (พงศธร)</td>
+	</tr>
+	<tr align="center">
+		<td rowspan="2">4</td>
+		<td rowspan="2">18th June - 24th June</td>
+		<td rowspan="2">Loops (while, for)</td>
+		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t31.0-8/23000276_1792200687491009_9032554056712951719_o.jpg?_nc_cat=0&_nc_eui2=AeHYB6y8xNeUwPdl57A43LracJkWy0yKKdp99Ok2GqcXobxJwXsg6VkMej8xVNcCOXbS6xjBvoku8N59qAVkh-zF5Xu-h7LaHhugwiVhnUkGNw&oh=6cbd21813274af597cfb7ae8627760f9&oe=5B999D68"></td>
+		<td><img width="100px" src=""></td>
+	</tr>
+	<tr align="center">
+		<td>พี่เซ้นท์</td>
+		<td>พี่ณัฏฐ์</td>
 	</tr>
 </table>
 

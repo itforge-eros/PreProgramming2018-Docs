@@ -83,6 +83,7 @@
 		<th>Topic</th>
 		<th colspan="2">Instructors</th>
 	</tr>
+	<tr></tr>
 	<tr align="center">
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>

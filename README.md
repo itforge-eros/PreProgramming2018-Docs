@@ -88,8 +88,8 @@
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
-		<td><img width="100px" src="pic/td/gun.jpg"></td>
-		<td><img width="100px" src="pic/td/coke.jpg"></td>
+		<td><a href="https://www.facebook.com/profile.php?id=100006793360750" target="_blank"><img width="100px" src="pic/td/gun.jpg"></a></td>
+		<td><a href="https://www.facebook.com/Naruebet.Coke" target="_blank"><img width="100px" src="pic/td/coke.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>พี่กรรณ</td>
@@ -97,8 +97,8 @@
 	</tr>
 	<tr align="center">
 		<td rowspan="2">Python Basics</td>
-		<td><img width="100px" src="pic/td/cartoon.jpg"></td>
-		<td><img width="100px" src="pic/td/fluke_piyapol.jpg"></td>
+		<td><a href="https://www.facebook.com/kawisara.srn" target="_blank"><img width="100px" src="pic/td/cartoon.jpg"></a></td>
+		<td><a href="https://www.facebook.com/FlukePiyapol" target="_blank"><img width="100px" src="pic/td/fluke_piyapol.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>พี่การ์ตูน</td>
@@ -108,8 +108,8 @@
 		<td rowspan="2">2</td>
 		<td rowspan="2">4th June - 10th June</td>
 		<td rowspan="2">Functions</td>
-		<td><img width="100px" src="pic/td/khing.jpg"></td>
-		<td><img width="100px" src="pic/td/diff.jpg"></td>
+		<td><a href="https://www.facebook.com/khing.bcc" target="_blank"><img width="100px" src="pic/td/khing.jpg"></a></td>
+		<td><a href="https://www.facebook.com/pdmn.diff" target="_blank"><img width="100px" src="pic/td/diff.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>พี่ขิง</td>
@@ -119,8 +119,8 @@
 		<td rowspan="2">3</td>
 		<td rowspan="2">11th June - 17th June</td>
 		<td rowspan="2">Conditionals</td>
-		<td><img width="100px" src="pic/td/pok.jpg"></td>
-		<td><img width="100px" src="pic/td/fluke_phongsathron.jpg"></td>
+		<td><a href="https://www.facebook.com/profile.php?id=100002495318131" target="_blank"><img width="100px" src="pic/td/pok.jpg"></a></td>
+		<td><a href="https://www.facebook.com/Phongsathron.co.th" target="_blank"><img width="100px" src="pic/td/fluke_phongsathron.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>พี่ป๊อก</td>
@@ -130,8 +130,8 @@
 		<td rowspan="2">4</td>
 		<td rowspan="2">18th June - 24th June</td>
 		<td rowspan="2">Loops</td>
-		<td><img width="100px" src="pic/td/saint.jpg"></td>
-		<td><img width="100px" src="pic/td/nut.jpg"></td>
+		<td><a href="https://www.facebook.com/810Teams" target="_blank"><img width="100px" src="pic/td/saint.jpg"></a></td>
+		<td><a href="https://www.facebook.com/nutorbitx" target="_blank"><img width="100px" src="pic/td/nut.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>พี่เซ้นท์</td>

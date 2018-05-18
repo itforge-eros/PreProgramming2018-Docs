@@ -131,7 +131,7 @@
 		<td rowspan="2">18th June - 24th June</td>
 		<td rowspan="2">Loops</td>
 		<td><img width="100px" src="https://bit.ly/2Gu8Jna"></td>
-		<td><img width="100px" src=""></td>
+		<td><img width="100px" src="https://bit.ly/2k9ghDm"></td>
 	</tr>
 	<tr align="center">
 		<td>พี่เซ้นท์</td>

@@ -179,7 +179,7 @@
 2. หอพักของมหาลัย [อยู่แถวนี้](https://goo.gl/maps/kaqZHBVJKYB2)
 3. หน้ามหาลัย [อยู่แถวนี้](https://goo.gl/maps/NdyzVqv88iw)
 4. ถนนฉลองกรุง [อยู่แถวนี้](https://goo.gl/maps/iSWHjzZ3Hyx)
-5. V condo [อยู่แถวนี้](https://goo.gl/maps/Yr212K2WBxK2)
+5. V Condo [อยู่แถวนี้](https://goo.gl/maps/Yr212K2WBxK2)
 
 
 ## การรายงานตัว

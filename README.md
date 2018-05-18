@@ -76,12 +76,47 @@
 
 # เนื้อหาการเรียนรอบ Online
 
-|Week Number|Date|Topic|Instructor|
-|:-----:|:-----:|:-----:|:-----:|
-|1<td rowspan="2">|28th May - 3rd June<td rowspan="2">|Introduction to Pre-Programming||
-|2|4th June - 10th June|Functions||
-|3|11th June - 17th June|Conditions||
-|4|18th June - 24th June|Loops||
+<table border="1px" width="100%">
+	<tr align="center">
+		<td>Week Number</td>
+		<td>Date</td>
+		<td>Topic</td>
+		<td colspan="2">Instructors</td>
+	</tr>
+	<tr align="center">
+		<td rowspan="2">1</td>
+		<td rowspan="2">28th May - 3rd June</td>
+		<td>Basic Python</td>
+		<td>พี่กรรณ</td>
+		<td>พี่โค้ก</td>
+	</tr>
+	<tr align="center">
+		<td>Python Basics</td>
+		<td>พี่การ์ตูน</td>
+		<td>พี่ฟลุ๊ค (ปิยะพล)</td>
+	</tr>
+	<tr align="center">
+		<td>2</td>
+		<td>4th June - 10th June</td>
+		<td>Functions</td>
+		<td>พี่ขิง</td>
+		<td>พี่ดิฟ</td>
+	</tr>
+	<tr align="center">
+		<td>3</td>
+		<td>11th June - 17th June</td>
+		<td>Conditions (if, elif, else)</td>
+		<td>พี่ป๊อก</td>
+		<td>พี่ฟลุ๊ค (พงศธร)</td>
+	</tr>
+	<tr align="center">
+		<td>4</td>
+		<td>18th June - 24th June</td>
+		<td>Loops (while, for)</td>
+		<td>พี่เซ้นท์</td>
+		<td>พี่ณัฐ</td>
+	</tr>
+</table>
 
 `
 Status: Currently Updating

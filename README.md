@@ -76,7 +76,7 @@
 
 # เนื้อหาการเรียนรอบ Online
 
-<table border="1px" width="100%">
+<table>
 	<tr align="center">
 		<td>Week Number</td>
 		<td>Date</td>

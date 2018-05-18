@@ -89,13 +89,6 @@
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
-		<td rowspan="2">
-			<ul>
-				<li>What is Python?</li>
-				<li>Installation</li>
-				<li>IDLE & Command Line</li>
-			</ul>
-		</td>
 		<td><img width="100px" src="https://bit.ly/2IPSs1q"></td>
 		<td><img width="100px" src="https://bit.ly/2wUTdBu"></td>
 	</tr>
@@ -126,7 +119,7 @@
 	<tr align="center">
 		<td rowspan="2">3</td>
 		<td rowspan="2">11th June - 17th June</td>
-		<td rowspan="2">Conditions (if, elif, else)</td>
+		<td rowspan="2">Conditionals</td>
 		<td><img width="100px" src="https://bit.ly/2wUmlJb"></td>
 		<td><img width="100px" src="https://bit.ly/2rSa6XR"></td>
 	</tr>
@@ -137,7 +130,7 @@
 	<tr align="center">
 		<td rowspan="2">4</td>
 		<td rowspan="2">18th June - 24th June</td>
-		<td rowspan="2">Loops (while, for)</td>
+		<td rowspan="2">Loops</td>
 		<td><img width="100px" src="https://bit.ly/2Gu8Jna"></td>
 		<td><img width="100px" src=""></td>
 	</tr>

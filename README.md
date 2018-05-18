@@ -77,11 +77,11 @@
 # เนื้อหาการเรียนรอบ Online
 
 <table>
-	<tr align="center"><b>
-		<td>Week Number</td>
-		<td>Date</td>
-		<td>Topic</td>
-		<td colspan="2">Instructors</td></b>
+	<tr align="center">
+		<th>Week Number</th>
+		<th>Date</th>
+		<th>Topic</th>
+		<th colspan="2">Instructors</th>
 	</tr>
 	<tr align="center">
 		<td rowspan="4">1</td>

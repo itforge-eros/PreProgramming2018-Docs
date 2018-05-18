@@ -86,7 +86,7 @@
 	<tr></tr>
 	<tr align="center">
 		<td rowspan="4">1</td>
-		<td rowspan="4">28th May - 3rd June</td>
+		<td rowspan="4">28th May - 3rd June 2018</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
 		<td><a href="https://www.facebook.com/jusmistic" target="_blank"><img width="100px" src="pic/td/gun.jpg"></a></td>
 		<td><a href="https://www.facebook.com/Naruebet.Coke" target="_blank"><img width="100px" src="pic/td/coke.jpg"></a></td>
@@ -106,7 +106,7 @@
 	</tr>
 	<tr align="center">
 		<td rowspan="2">2</td>
-		<td rowspan="2">4th June - 10th June</td>
+		<td rowspan="2">4th June - 10th June 2018</td>
 		<td rowspan="2">Functions</td>
 		<td><a href="https://www.facebook.com/khing.bcc" target="_blank"><img width="100px" src="pic/td/khing.jpg"></a></td>
 		<td><a href="https://www.facebook.com/pdmn.diff" target="_blank"><img width="100px" src="pic/td/diff.jpg"></a></td>
@@ -117,7 +117,7 @@
 	</tr>
 	<tr align="center">
 		<td rowspan="2">3</td>
-		<td rowspan="2">11th June - 17th June</td>
+		<td rowspan="2">11th June - 17th June 2018</td>
 		<td rowspan="2">Conditionals</td>
 		<td><a href="https://www.facebook.com/profile.php?id=100002495318131" target="_blank"><img width="100px" src="pic/td/pok.jpg"></a></td>
 		<td><a href="https://www.facebook.com/Phongsathron.co.th" target="_blank"><img width="100px" src="pic/td/fluke_phongsathron.jpg"></a></td>
@@ -128,7 +128,7 @@
 	</tr>
 	<tr align="center">
 		<td rowspan="2">4</td>
-		<td rowspan="2">18th June - 24th June</td>
+		<td rowspan="2">18th June - 24th June 2018</td>
 		<td rowspan="2">Loops</td>
 		<td><a href="https://www.facebook.com/810Teams" target="_blank"><img width="100px" src="pic/td/saint.jpg"></a></td>
 		<td><a href="https://www.facebook.com/nutorbitx" target="_blank"><img width="100px" src="pic/td/nut.jpg"></a></td>

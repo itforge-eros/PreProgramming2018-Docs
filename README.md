@@ -79,6 +79,7 @@
 |Week Number|Date|Topic|Instructor|
 |:-----:|:-----:|:-----:|:-----:|
 |0|28th May - 3rd June|Introduction to Pre-Programming|พี่กรรณและพี่โค้ก|
+
 `
 Status: Currently Updating
 `

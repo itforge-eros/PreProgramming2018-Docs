@@ -139,10 +139,6 @@
 	</tr>
 </table>
 
-`
-Status: Currently Updating
-`
-
 > ##  References
 >
 >

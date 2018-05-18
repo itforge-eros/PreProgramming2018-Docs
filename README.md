@@ -83,16 +83,17 @@
 		<th>Topic</th>
 		<th colspan="2">Instructors</th>
 	</tr>
+	<tr><td></td><td></td><td></td><td colspan="2"></td></tr>
 	<tr align="center">
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
 		<td rowspan="2">Introduction to Pre-Programming</td>
 		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/22228240_1999485296954563_3718892023056004893_n.jpg?_nc_cat=0&_nc_eui2=AeEGrI9kF2VrkkmBgEx3S-YbW-0zlrIIasrIjo5r0_tBodouSOZNeaOtzI1ZdrAhHy5NfToz0Wk70NdDRBtpoAIkfUDZmVHNGVKzMY_UJuFOJg&oh=6845fa27b7d4cf0bd4a71fc4fe735487&oe=5B97D077"></td>
 		<td><img width="100px" src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/20315_942303559165930_6912505496713634242_n.jpg?_nc_cat=0&_nc_eui2=AeF4lc4HrL8xi4_2P5-Ooxn38A224PdAcM56tsfUgJE-0DIGdTpco_rLgZpTfUk5YXBBb93-K5PLU-URAZ-M8Gob9adb6E_CTt9uCerTUpDWXA&oh=a80c8fce73315403dfac0c5fe61cc72d&oe=5B804EF2"></td>
+	</tr>
 	<tr align="center">
 		<td>พี่กรรณ</td>
 		<td>พี่โค้ก</td>
-	</tr>
 	</tr>
 	<tr align="center">
 		<td rowspan="2">Python Basics</td>

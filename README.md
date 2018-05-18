@@ -81,7 +81,6 @@
 		<th>Week</th>
 		<th>Date</th>
 		<th>Topic</th>
-		<th>Content</th>
 		<th colspan="2">Instructors</th>
 	</tr>
 	<tr></tr>

@@ -78,15 +78,10 @@
 
 |Week Number|Date|Topic|Instructor|
 |:-----:|:-----:|:-----:|:-----:|
-|1|28th May - 3rd June|Introduction to Pre-Programming||
-|^|^|Python Basics||
-|^|^|||
-|2|4th June - 10th June|||
-|^|^|||
-|3|11th June - 17th June|||
-|^|^|||
-|4|18th June - 24th June|||
-|^|^|||
+|1|28th May - 3rd June|Introduction to Pre-Programming<br>Python Basics||
+|2|4th June - 10th June|Functions||
+|3|11th June - 17th June|Conditions||
+|4|18th June - 24th June|Loops||
 
 `
 Status: Currently Updating

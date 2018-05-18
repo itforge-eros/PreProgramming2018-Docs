@@ -87,7 +87,14 @@
 	<tr align="center">
 		<td rowspan="4">1</td>
 		<td rowspan="4">28th May - 3rd June</td>
-		<td rowspan="2">Introduction to Pre-Programming</td>
+		<td rowspan="2">
+			Introduction to Pre-Programming <br>
+			<ul>
+				<li>What is Python?</li>
+				<li>Installation</li>
+				<li>IDLE & Command Line</li>
+			</ul>
+		</td>
 		<td><img width="100px" src="https://bit.ly/2IPSs1q"></td>
 		<td><img width="100px" src="https://bit.ly/2wUTdBu"></td>
 	</tr>

@@ -19,7 +19,7 @@
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `CLOSED` | Status: `PENDING` | Status: `Inactive`|
 
->ปิดการรับสมัครแล้ว // อยากเรียนติดต่อพี่ๆเลยครับ
+>ปิดการรับสมัครแล้ว // อยากเรียนติดต่อพี่ ๆ ได้เลยครับ
 
 ### รายชื่อผู้ผ่านการทดสอบ
 

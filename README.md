@@ -8,14 +8,15 @@
 คอร์สนี้จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1
 
 > ดังนั้น พี่ ๆ อยากให้น้องตั้งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ ไม่เข้าใจให้ถาม แล้วชีวิตของน้องจะสดใส จากความห่วงใยของพี่ ๆ
+<<<<<<< Updated upstream
 
-[]Z
-
+=======
+>>>>>>> Stashed changes
 ---
 # กำหนดการ Pre-Programming
 
 |วันที่ 23 เมษายน - 14 พฤษภาคม 2018|วันที่ 28 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
-|:-------:|:----:|:-------:|
+|:------:|:----:|:-------:|
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `CLOSED` | Status: `PENDING` | Status: `Inactive`|
 

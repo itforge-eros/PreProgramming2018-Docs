@@ -117,7 +117,7 @@
 	<tr align="center">
 		<td rowspan="2">3</td>
 		<td rowspan="2">11th June - 17th June 2018</td>
-		<td rowspan="2">Conditionals</td>
+		<td rowspan="2">Conditions</td>
 		<td><a href="https://www.facebook.com/profile.php?id=100002495318131" target="_blank"><img width="100px" src="pic/td/pok.jpg"></a></td>
 		<td><a href="https://www.facebook.com/Phongsathron.co.th" target="_blank"><img width="100px" src="pic/td/fluke_phongsathron.jpg"></a></td>
 	</tr>

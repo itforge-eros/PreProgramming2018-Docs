@@ -14,7 +14,6 @@
 
 |วันที่ 23 เมษายน - 14 พฤษภาคม 2018|วันที่ 26 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
 |:-------:|:----:|:-------:|
-
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `CLOSED` | Status: `Active` | Status: `Inactive`|
 

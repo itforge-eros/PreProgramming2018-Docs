@@ -8,14 +8,13 @@
 คอร์สนี้จะเป็นเรื่องการใช้ Algorithm และ Basic Programming ซึ่งภาษาหลักของเราที่จะใชนั้นก็คือ Python นั้นเอง โดยทั้ง 2 อย่างนั้นจะเป็นพื้นฐานหลักในวิชา Problem Solving in Information Technology (PSIT) ในปี 1 เทอม 1
 
 > ดังนั้น พี่ ๆ อยากให้น้องตั้งใจในการเรียนรู้ ขยัน หมั่นทำโจทย์ ไม่เข้าใจให้ถาม แล้วชีวิตของน้องจะสดใส จากความห่วงใยของพี่ ๆ
-
-[]Z
-
 ---
 # กำหนดการ Pre-Programming
 
+
 |วันที่ 23 เมษายน - 14 พฤษภาคม 2018|วันที่ 26 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
 |:-------:|:----:|:-------:|
+
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `CLOSED` | Status: `Active` | Status: `Inactive`|
 
@@ -31,7 +30,7 @@
 > ติดตามในกลุ่ม [ITKMITL Pre-Programming 61](https://www.facebook.com/groups/2073882202847693/)
 # What is eJudge?![ejudge logo](pic/ejudge.png)
 
-ระบบ eJudge เป็นระบบ Grader ชนิดหนึ่ง ที่จะรับโปรแกรมของน้องๆมา แล้วรัน โดยการใส่ค่า Input ที่พวกพี่ ๆ ที่ออกโจทย์เขียนเอาไว้ และรับค่า Output ที่ผ่านโปรแกรมนั้น ๆ ออกมา
+ระบบ eJudge เป็นระบบ Grader ชนิดหนึ่ง ที่จะรับโปรแกรมของน้อง ๆ มา แล้วรัน โดยการใส่ค่า Input ที่พวกพี่ ๆ ที่ออกโจทย์เขียนเอาไว้ และรับค่า Output ที่ผ่านโปรแกรมนั้น ๆ ออกมา
 โดยระบบจะสามารถเช็คได้ถึง
 
 * **ความมีระเบียบ** ในการเขียนโปรแกรม (คุณภาพ)
@@ -120,7 +119,7 @@
 	<tr align="center">
 		<td rowspan="2">3</td>
 		<td rowspan="2">11th June - 17th June 2018</td>
-		<td rowspan="2">Conditionals</td>
+		<td rowspan="2">Conditions</td>
 		<td><a href="https://www.facebook.com/profile.php?id=100002495318131" target="_blank"><img width="100px" src="pic/td/pok.jpg"></a></td>
 		<td><a href="https://www.facebook.com/Phongsathron.co.th" target="_blank"><img width="100px" src="pic/td/fluke_phongsathron.jpg"></a></td>
 	</tr>

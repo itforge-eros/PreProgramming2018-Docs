@@ -188,7 +188,7 @@ print(text, "World") # Returns 12 World
 
 text = "Hello"
 text2 = "World"
-print(text + text2, sep=",") # Returns Hello,World
+print(text, text2, sep=",") # Returns Hello,World
 
 text = "Hello"
 text2 = "World"

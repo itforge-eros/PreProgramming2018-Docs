@@ -1,5 +1,5 @@
 ![prepro logo](../pic/logo-banner.png)
-# Python Lecture By Kumamon
+# Python Lecture By P'Kumamon IT'14
 สวัสดีครับน้องๆ ที่น่ารักทุกคน <br>
 พี่นำ Lecture ที่สุดยอดของพี่ๆ ปีที่แล้วมาให้น้องๆ อ่านทบทวนกันครับซึ่่งจัดทำโดยพี่ kumamon!!!
 <br>

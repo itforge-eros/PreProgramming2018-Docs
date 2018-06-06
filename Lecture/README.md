@@ -1,7 +1,7 @@
 ![prepro logo](../pic/logo-banner.png)
 # Python Lecture By P'Kumamon IT'14
 สวัสดีครับน้องๆ ที่น่ารักทุกคน <br>
-พี่นำ Lecture ที่สุดยอดของพี่ๆ ปีที่แล้วมาให้น้องๆ อ่านทบทวนกันครับซึ่่งจัดทำโดยพี่ kumamon!!!
+พี่นำ Lecture ที่สุดยอดของพี่ๆ ปีที่แล้วมาให้น้องๆ อ่านทบทวนกันครับซึ่งจัดทำโดยพี่ kumamon!!!
 <br>
 
 * [Week 1 - IO](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%201%20-%20IO.md)

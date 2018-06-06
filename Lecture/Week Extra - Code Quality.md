@@ -1,45 +1,37 @@
-# Dealing with Pylint + PEP8
+# Pylint + PEP8
+PEP8 คือ standard ของการเขียนโปรแกรม เพื่อให้คนอื่นๆ อ่านออกนะครับ ดังนั้นมันจึงเป็นเรื่องสำคัญที่จะต้องเขียนให้ผู้เขียนและผู้อ่าน เข้าใจว่าโปรแกรมนี้ทำงานอย่างไร<br>
+โดย PEP8 นั้นถูกเขียนไว้ที่ Python Foundation : [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
 
-## Follow me on GitHub
-|<a href="https://github.com/sagelga"><img src="https://avatars0.githubusercontent.com/u/13056824" width="100px"></a>  |
-|:-:|  
-|@sagelga|
+---
 
-Copyright by P' Kumamon IT14. <br>
-For education purpose only.
-
-![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)
-
-----------
-
-# ทำยังไงไม่ให้ PyLint ด่า
-ใครเคยโดน PyLint ด่าบ้าง ทุกคนก็ต้องเคยอ่ะเนอะ วันนี้พี่คุมะมงจะมาอธิบาย ว่าทำไมมันจึงด่านะครับ
-
-ถ้าอันไหน ยังไม่เคยเจอ คอมเม้นท์ไว้ใด้นะครับ :)
-
-## 1. Missing DocString
+## Missing DocString
 Docstring คือ comment เพื่อบอกว่าฟังชั่น หรือ โปรแกรมนั้นๆ ทำงานเพื่ออะไร โดยทุก function ละหัวไฟล์ (บรรทัดที่ 1) จะต้องมี docstring กำกับ
 
 เช่น
 
 ```python
-"""This program will print out the "Happy Kumamon" to the world"""
-def happy():
+"""
+This program will print out the "Happy Kumamon" to the world
+"""
+
+def happyKumamon():
   """This function will print out the text"""
   print("Hello Kumamon")
-happy()
+happyKumamon()
 ```
 
-โดยที่จะตั้ง DocString ให้ดีนั้น ใน Docstring ที่อธิบายโปรแกรม จะต้องอธิบายว่าทั้งโปรแกรมนั้น ทำอะไร อย่างไรแบบคร่าวๆ เพื่อการทำงานกับคนอื่น <br>
+โดย DocString ที่ดีนั้น ใน Docstring ต้องอธิบายโปรแกรม จะต้องอธิบายว่าทั้งโปรแกรมนั้นมีหน้าที่อะไร อย่างไรแบบคร่าวๆ<br>
 สำหรับ DocString ที่อธิบายฟังก์ชั่นนั้น ก็ต้องอธืบายว่าฟังก์ชั้นนั้นทำงานเพื่ออะไร หรือว่ากำลังจะทำอะไรอยู่
 
-การตั้ง DocString ที่ไม่ดี หรือ ไม่อธิบายถึงโปรแกรม อาจจะส่งผลเสียในภายภาคหน้านะครับ
+---
 
-## 2. Missing new line
+## Missing new line
 เป็นเรื่องของการลืมสร้างบรรทัดใหม่
-น้องๆอาจจะไม่เข้าใจ ว่าทำไปทำไม เพื่ออะไร แต่มันเป็นการบอกโปรแกรมว่าหมดโปรแกรมแล้วทำให้โปรแกรมหยุดได้ (หากไม่มี ตัว Compiler จะเป็นคนเพื่มให้เอง) ดังนั้น PyLint จึงด่านะครับ :)
+น้องๆอาจจะไม่เข้าใจ ว่าทำไปทำไม เพื่ออะไร แต่มันเป็นการบอกโปรแกรมว่าบรรทัดสุดท้ายได้หมดแล้ว
 
-โดยที่พวก Text Editor ส่วนใหญ่ จะมีการทำให้อยู่แล้ว ยกเว้นแต่ว่าน้องจะทำใน NotePad อ่ะเนอะ
+StackOverflow Reference :  [https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
+
+โดยที่พวก Text Editor ส่วนใหญ่ จะมีการทำให้อยู่แล้ว
 
 ```python
 """This program will print out the "Happy Kumamon" to the world"""
@@ -50,15 +42,21 @@ happy()
 # and leave this line blank
 ```
 
-## 3. Invalid Data Type
-การรับค่า Input ผิดประเภท เช่น
+---
+
+## Invalid Data Type
+เป็นการบอกว่าไม่สามารถทำการแปลงประเภทตัวแปร (Data Type Casting) ได้
+
+เช่น
 ```python
 int(input())
 ```
 ถ้าหากรับค่า int มันจะแปลงจาก string เป็น int ปกติ
 ถ้าหากรับค่า string มันจะแปลงไม่ได้ เพราะ string เป็นตัวอักษร เปลี่ยนค่าเป็นตัวเลขไม่ได้นะจ๊ะ
 
-## 4. Invalid Syntax
+---
+
+## Invalid Syntax
 การใช้ฟังชั่นที่ใช้ชื่อผิด ใช้ผิดวิธี โมดูลขาด argument หรือ ไม่ได้เรียกโมดูลที่ต้องการใช้มาก่อน
 
 เช่น
@@ -74,7 +72,9 @@ import math
 var_x = math.pi()
 ```
 
-## 5. Unused Variables
+---
+
+## Unused Variables
 เป็นการประกาศตัวแปร แล้วน้องไม่เคยใช้มันเลย มันอาจจะไม้เป็นไรสำหรับการรัน เพราะก็สามารถรันได้อย่างปกติ
 แต่มันเปลืองพื้นที่ RAM (เพื่อจองพื้นที่สำหรับ variable นี้) ทำให้ Pylint ด่า
 
@@ -89,7 +89,9 @@ print(var_x + var_y)
 ```
 ซึ่งตัวแปร kumamon ไม่ได้ถูกใช้ในบรรทัดอื่น (นอกจากการประกาศค่า) เป็นการสี้นเปลืองทรัพยากร
 
-## 6. Variable Error & Variable Name
+---
+
+## Variable Error & Variable Name
 การตั้งชื่อ Variable ก็เป็นสี่งจำเป็นในการทำ python เนอะ เพราะก็เอาไว้เก็บค่าตัวแปร
 
 แต่การตั้งชื่อตัวแปรที่ง่ายๆ มันมักจะทำให้จุดอื่นๆพังไปด้วย
@@ -127,7 +129,9 @@ Number|Type|Meaning|Example
 
 ดังนั้น น้องๆจะต้องระวังในการตั้งชื่อนะครับ
 
-## 7. Bad White Space
+---
+
+## Bad White Space
 การที่มี white space ในจุดที่มันไม่จำเป็น เป็นการเสียทรัพยากรในการให้ Python ทำงานนะครับ และ ทำให้เพื่อนๆของน้อง อ่านโค้ดของน้องได้ยากขื้น
 
 เช่น
@@ -155,7 +159,9 @@ var_x, var_y = 12, 21
 print(var_x, var_y)
 ```
 
-## 8. Too much Local Variable
+---
+
+## Too much Local Variable
 เป็นก่ารประกาศค่าตัวแปรมากเกินไป เปลืองทั้งทรัพยากร แล้วน้องๆก็ไม่จำเป็นต้องมีมากขนาดนั้นด้วย
 
 เช่น
@@ -178,7 +184,9 @@ kumamon()
 ```
 หากเก็บแบบนี้ ไฟล์จะใหญ่ และทำงานได้ช้ามาก ดังนั้น ควรมาใช้ Array หรือ Dict แทนนะครับ
 
-## 9. Too much Global Variable
+---
+
+## Too much Global Variable
 เหมือนกับข้อที่แล้วเลยจ้า มันเปลืองพื้นที่ (เปลืองมากกว่า local อีกนะครับ จะบอกให้)
 
 เช่น
@@ -190,7 +198,9 @@ kumamon()
   VAR_E = 15
 ```
 
-## 10. Line is too long
+---
+
+## Line is too long
 เป็นการบอกว่าโปรแกรมในแถวใดแถวหนึ่งยาวมาก <br>
 โดยปกติแล้ว โปรแกรมก็ไม่ควรที่จะยาวเกิน **100 ตัวอักษร** อยู่แล้ว เพราะเดี๋ยวจะอ่านไม่ออกและดูน่ารำคาญ
 
@@ -199,7 +209,9 @@ kumamon()
   print("This is a very long string, and they are more than 100 character long. They just keep going and going and going and going and going and going and going and going and going and going")
 ```
 
-## 11. Too many branch
+---
+
+## Too many condition branch
 เมื่อน้องต้องการทำ If statement แล้วใช้มากเกินเหตุ หรือ ซ้อนกันมาก (Chained)
 
 เช่น
@@ -253,7 +265,9 @@ kumamon()
 ```
 หากว่าน้องอยากจะใช้เยอะจริงๆ การใช้งานหลายฟังชั่น ก็เป็นวิธีหนึ่งในการช่วยให้น้องเขียนโค้ดน้อยลงเนอะ
 
-## 12. Mixing Tabs and Space
+---
+
+## Mixing Tabs and Space
 การใช้ Python น้องๆก็รู้ๆอยู่นะครับ ว่าจะไม่มีการใช้ {} ในการให้โปรแกรมรู้ว่าอยู่ในระดับขั้นตอนไหน<br>
 ซึ่งการ indent ที่ดี ก็เป็นสี่งจำเป็น เพื่อให้ Python เข้าใจน้องๆนะครับ<br>
 การ Indent จะใช้เท่ากับการกด space 4 ครั้งครับ ไม่ใช่ Tab<br>
@@ -274,7 +288,9 @@ kumamon()
 ```
 ซึ่งเวลาน้องเห็นบน Text Editor มันจะเหมือนกันมากๆเลย แทบจะดูไม่ออก ดังนั้น น้องต้องระวังนะครับ
 
-## 13. Too many arguments in function
+---
+
+## Too many arguments in function
 การส่งค่าให้กับฟังชั่นอื่นๆ มากเกินไป
 
 เช่น
@@ -296,7 +312,9 @@ def calculate(var_a, var_b, var_c, var_d, var_e, var_f, var_g, var_h):
 kumamon()
 ```
 
-## 14. Conflicted Variable Name
+---
+
+## Conflicted variable Name
 โดยจะเกิดขื้นเมื่อต้องการให้ตัวแปรนึงไปเป็นตัวนับ (ซึ่งตัวนับจะถูกลบล้างไป หากมีการใช้งาน) ดังนั้น ตัว PyLint จึงด่าครับ
 ```python
 x = 12
@@ -312,7 +330,9 @@ for i in range(1, 10):
 
 ```
 
-15. Incorrect line indentation
+---
+
+## Incorrect line indentation
 โดยอันนี้จะเกิดขื้นเมื่อน้องอยากให้ตัวโปรแกรมเหลือบรรทัดน้อยๆ หรือเกิดจากน้องลืมกด ENTER เพื่อเปลี่ยนบรรทัด เช่น<br>
 แต่โดยปกติแล้ว โปรแกรมจะไม่รันเลย เนื่องจากว่าไม่เข้าใจว่าต้องการทำอะไร<br>
 แต่สำหรับบางเหตุการนั้น ได้เฉยเลย พี่เลยเขียนไว้ก่อนนะครับ ว่าให้ศึกษาก่อนที่จะ shorthand coding นะจ๊ะ
@@ -329,89 +349,3 @@ print(x) if (x > 12)
 ```
 
 Pylint จะด่า เพราะน้องส่งตัวแปรให้กับฟังชั่น calculate มากเกินไป :(
-
-# How Ejudge sees your code
-เวลาที่น้องๆเขียนแบบนี้
-```python
-  var_x = str(input())
-```
-การที่ input() ธรรมดา เวลารับ มันเป็น string อยู่แล้วนะครับ ไม่ต้องไปครอบมันนะ
-
-
-```python
-  var_x = input("This will go as var_x")
-```
-น้องอาจจะให้การทำให้ input โชว์ว่า กำลัง input อะไรอยู่ Ejudge จะเห็นแบบนี้ครับ
-```
-  This will go as var_x
-```
-
-ซึ่งเป็น string ทำให้เวลาน้องทำอะไร มันก็จะบอกว่าผิดนะครับ ดังนั้น น้องควรทำแบบนี้
-
-```python
-  var_x = input()
-```
-
-# Switching from other coding language
-หากน้องเคยเรียนภาษาคอมพิวเตอร์อื่นๆมาก่อนแล้ว การที่น้องมาเรียนอีกภาษานึง อาจเป็นเรื่องยากสำหรับน้องเอง
-ซี่งเป็นพี่ พี่ก็เป็นครับ อะไรก็ไม่รู้เหมือนกัน ทำไมอันนี้มี อันนี้ไม่มี วันนี้พี่มงจะมาเปรียบเทียบให้น้องดูกันครับ
-
-### Code Blocks and Indentations
-Code Block คือเป็นการบอกตัว compiler ว่าโค้ดส่วนนี้ จัดว่าไปอยู่กับจุดไหนของโปรแกรม
-
-หากเป็น C หรือ Java หรือ อะไรอื่น จะอ่านแบบนี้
-```c
-int kumamon = 12;
-if (kumamon > 12){
-    printf("Happy!!\n");
-}
-else{
-    printf("Not very happy!!\n");
-}
-```
-
-โดยที่โปรแกรมจะเข้าใจบรรทัด
-```c
-printf("Happy!!\n");
-```
-และ
-```c
-printf("Not very happy!!\n");
-```
-ว่าถ้า If statement ทำงาน จะเกิดพวกนี้ขื้น
-
-แต่สำหรับ Python แล้ว
-```python
-kumamon = 12;
-if kumamon > 12:
-    print("Happy!!");
-else:
-    print("Not very happy!!");
-```
-การ Indent ข้างหน้าบรรทัด เป็นการบอกเหมือนกับการใช้งาน {} เลย
-
-### End of the line
-บางภาษาโปรแกรมมี่ง ต้องใช้งาน ; เพื่อจะบอกว่าบรรทัดนี้ ได้หมดลงแล้ว แต่ถ้าหากยังไม่มี ก็จะอ่านต่อไป จนกว่าจะเจอ
-
-พี่มงจะเปรียบเทียบกับภาษา C ให้ดูนะครับ
-```C
-int kumamon = 12;
-if (kumamon > 12){
-    printf("Happy!!
-    \n");
-}
-else{
-    printf("Not very
-    happy!!\n");
-}
-```
-มันคงยังมีความหมายเหมือนเดิม เพราะว่าตัว Compiler จะเข้าใจว่า การที่มี ; ปิด คือหมดบรรทัดนั้นแล้ว
-
-แต่ถ้าเป็น Python
-```python
-if kumamon > 12:
-    print("Happy!!");
-else:
-    print("Not very \
-    happy!!");
-```

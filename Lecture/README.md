@@ -6,6 +6,7 @@
 
 * [Week 1 - IO](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%201%20-%20IO.md)
 * [Week 2 - Function](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%202%20-%20Functions.md)
+* [Week 2 - Build-in Function](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%202%20-%20BuildinFunction)
 * [Week Extra - Code Quality](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%20Extra%20-%20Code%20Quality.md)
 * [Week Extra - Command Line](https://github.com/itforge-eros/PreProgramming2018-Docs/blob/master/Lecture/Week%20Extra%20-%20Command%20Line.md)
 

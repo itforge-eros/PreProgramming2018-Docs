@@ -13,7 +13,7 @@
 
 
 |วันที่ 23 เมษายน - 14 พฤษภาคม 2018|วันที่ 26 พฤษภาคม - 22 มิถุนายน 2018|วันที่ 25 มิถุนายน - 20 กรกฎาคม 2018 |
-|:-------:|:----:|:-------:|
+|:-------:|:----:|:-------:| 
 |รับสมัครน้องๆ เข้า Course Pre Programming<br>(รับสมัครผ่านทาง Google Form)|Pre Programming รอบ Online<br>(ผ่านระบบ Ejudge)|Pre Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `CLOSED` | Status: `Active` | Status: `Inactive`|
 
@@ -21,7 +21,7 @@
 
 ### รายชื่อผู้ผ่านการทดสอบ
 
-**ตามนี้เลยครับ 👉 [Pre-Programming Attendance Status](https://docs.google.com/spreadsheets/d/1qQxAbc8aOHRpXS3zROpqjpR9aH0fZND-Kg3K4hROsSk/edit?usp=sharing)**
+**ตามนี้เลยครับ 👉 [Pre-Programming Attendance Status](https://docs.google.com/spreadsheets/d/1BEcazbkEzYYvQbfI2gVfNwORDpj98aHv2urtFBytxDA/edit?usp=sharing)**
 
 
 หากน้องไม่พบชื่อตัวเอง ไม่ต้องตกใจนะครับ พี่ ๆ จะคอยอัปเดตนะ ส่วนคนทีขึ้นว่าไม่ผ่านไม่ต้องตกใจนะครับ น้อง ๆ ไม่ผ่านอาจจะเป็นเพียงแค่ข้อมูลไม่ครบหรือตกหล่น สามารถแก้ไขได้ ให้น้องติดต่อพี่ ๆ ได้เลยนะครับ
@@ -217,7 +217,7 @@ ___
 
 
 ## Our Team
-|<a href="https://www.facebook.com/rawitgun"><img src="https://avatars1.githubusercontent.com/u/31315990" width="100px"></a>  |<a href="https://www.facebook.com/wiput.pootong"><img src="https://avatars3.githubusercontent.com/u/8299278" width="100px"></a>  |<a href="https://www.facebook.com/810Teams"><img src="https://avatars1.githubusercontent.com/u/26340809" width="100px"></a>  |<a href="https://www.facebook.com/pipatboon"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/14900381_1254770891263380_2526708941116232222_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=2c6ed03fa9dcdc56202dc16de3a69f97&oe=5B5091E4" width="100px"></a>  |<a href="https://www.facebook.com/kavepol"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/18156901_1456506974417122_2622418456792260905_n.jpg?_nc_cat=0&oh=9f72576370aadc0af71db1421b540358&oe=5B53B671" width="100px"></a>  |
+|<a href="https://www.facebook.com/rawitgun"><img src="https://avatars1.githubusercontent.com/u/31315990" width="100px"></a>  |<a href="https://www.facebook.c om/wiput.pootong"><img src="https://avatars3.githubusercontent.com/u/8299278" width="100px"></a>  |<a href="https://www.facebook.com/810Teams"><img src="https://avatars1.githubusercontent.com/u/26340809" width="100px"></a>  |<a href="https://www.facebook.com/pipatboon"><img src="https://scontent.fbkk1-6.fna.fbcdn.net/v/t1.0-9/14900381_1254770891263380_2526708941116232222_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=2c6ed03fa9dcdc56202dc16de3a69f97&oe=5B5091E4" width="100px"></a>  |<a href="https://www.facebook.com/kavepol"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-1/18156901_1456506974417122_2622418456792260905_n.jpg?_nc_cat=0&oh=9f72576370aadc0af71db1421b540358&oe=5B53B671" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|:-:|
 |[@RawitSHIE](https://github.com/rawitshie)|[@wiput1999](https://github.com/wiput1999)|[@810Teams](https://github.com/810Teams)|@Kodashi|@Supermalonz|
 
